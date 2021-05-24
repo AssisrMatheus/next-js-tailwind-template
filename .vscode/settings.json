@@ -1,0 +1,6 @@
+{
+  // These are set to false due to having styleling configured
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false
+}
